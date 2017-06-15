@@ -39,7 +39,8 @@ namespace TrendGraph
             listCgmModel.Add(new CGMMeasurementModel() { CGMValue = 78, OffsetTime = 80, SessionId = 1 });
             listCgmModel.Add(new CGMMeasurementModel() { CGMValue = 200, OffsetTime = 106, SessionId = 1 });
             listCgmModel.Add(new CGMMeasurementModel() { CGMValue = 250, OffsetTime = 146, SessionId = 1 });
-            listCgmModel.Add(new CGMMeasurementModel() { CGMValue = 150, OffsetTime = 178, SessionId = 1 });
+            listCgmModel.Add(new CGMMeasurementModel() { CGMValue = 150, OffsetTime = 158, SessionId = 1 });
+            listCgmModel.Add(new CGMMeasurementModel() { CGMValue = 130, OffsetTime = 170, SessionId = 1 });
             return listCgmModel;
         }
 
