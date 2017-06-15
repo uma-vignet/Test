@@ -1,0 +1,12 @@
+TrendGraph.MainActivity, TrendGraph;md555b376c699d4c2ce07f0db1226588fd6.MainActivity
+TrendGraph.MainActivity, TrendGraph, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md555b376c699d4c2ce07f0db1226588fd6.MainActivity
+TrendGraph.MainActivity;md555b376c699d4c2ce07f0db1226588fd6.MainActivity
+trendgraph.MainActivity;md555b376c699d4c2ce07f0db1226588fd6.MainActivity
+AChartEngine.Tools.IPanListenerImplementor, AChartEngine.Bindings.XamarinAndroid;mono.org.achartengine.tools.PanListenerImplementor
+AChartEngine.Tools.IPanListenerImplementor, AChartEngine.Bindings.XamarinAndroid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;mono.org.achartengine.tools.PanListenerImplementor
+AChartEngine.Tools.IPanListenerImplementor;mono.org.achartengine.tools.PanListenerImplementor
+mono.org.achartengine.tools.PanListenerImplementor;mono.org.achartengine.tools.PanListenerImplementor
+AChartEngine.Tools.IZoomListenerImplementor, AChartEngine.Bindings.XamarinAndroid;mono.org.achartengine.tools.ZoomListenerImplementor
+AChartEngine.Tools.IZoomListenerImplementor, AChartEngine.Bindings.XamarinAndroid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;mono.org.achartengine.tools.ZoomListenerImplementor
+AChartEngine.Tools.IZoomListenerImplementor;mono.org.achartengine.tools.ZoomListenerImplementor
+mono.org.achartengine.tools.ZoomListenerImplementor;mono.org.achartengine.tools.ZoomListenerImplementor
